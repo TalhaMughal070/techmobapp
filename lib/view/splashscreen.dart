@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:techmobapp/view/homescreen.dart';
-import 'package:techmobapp/view/intro_screens/introAll.dart';
+import 'package:techmobapp/view/Boarding_screens/BoardingAll.dart';
 
 class Splashscreen extends StatefulWidget {
   const Splashscreen({super.key});

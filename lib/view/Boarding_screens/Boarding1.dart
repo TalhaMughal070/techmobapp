@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:techmobapp/resources/compnents/round_button.dart';
-import 'package:techmobapp/view/intro_screens/intro2.dart';
-import 'package:techmobapp/view/intro_screens/introAll.dart';
+import 'package:techmobapp/view/Boarding_screens/Borading2.dart';
+import 'package:techmobapp/view/Boarding_screens/BoardingAll.dart';
 
 class Intro1 extends StatelessWidget {
   const Intro1({super.key});

@@ -3,9 +3,9 @@ import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 import 'package:techmobapp/resources/compnents/round_button.dart';
 import 'package:techmobapp/view/auth/login_screen.dart';
 
-import 'package:techmobapp/view/intro_screens/intro1.dart';
-import 'package:techmobapp/view/intro_screens/intro2.dart';
-import 'package:techmobapp/view/intro_screens/intro3.dart';
+import 'package:techmobapp/view/Boarding_screens/Boarding1.dart';
+import 'package:techmobapp/view/Boarding_screens/Borading2.dart';
+import 'package:techmobapp/view/Boarding_screens/Boarding3.dart';
 
 class Intro_screen extends StatefulWidget {
   const Intro_screen({super.key});
